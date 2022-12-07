@@ -1,0 +1,1 @@
+let reg_email="salujavishal370@gmail.com"
